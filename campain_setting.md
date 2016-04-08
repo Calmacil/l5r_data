@@ -139,7 +139,7 @@ Total:
 | Doji Umehime, Impératrice                     | 53  | 9.9 | 6.0 | C. Doji 5
 | Hantei Suijin, prince Impérial                | 37  | 9.4 | 3.0 | C. Otomo 1-2, Bushi Akodo 1
 | Yogo Himiko, Concubine Impériale              | 24  | 4.7 | 6.5 | C. Bayushi 3
-| Otomo|Hantei Enomoto, Magistrat d’Émeraude++  | 49  | 6.0 | 5.0 | C. Otomo 1, B. Akodo 2-4, Héritier Impérial 1
+| Otomo(Hantei) Enomoto, Magistrat d’Émeraude++ | 49  | 6.0 | 5.0 | C. Otomo 1, B. Akodo 2-4, Héritier Impérial 1
 | Kakita Eiji, Ouji-san, Champion d’Émeraude    | 71  | 9.0 | 8.0 | B. Kakita 5, Kenshinzen 1, V. Champion d’Émeraude (réput 7)
 | Doji Okoda, Conseiller Impérial               | 61  | 9.0 | 4.0 | C. Doji 5
 | Otomo Nasen, Chancelier Impérial              | 47  | 9.0 | 6.0 | C. Otomo 4
