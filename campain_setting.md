@@ -2,12 +2,12 @@
 
 ## L’Empereur et son entourage
 
-[Hantei XXX, dit l’Indécis](imperial/hantei_xxx.md)
-[Doji Umehime](imperial/doji_umehime.md)
-[Hantei Suijin, héritier impérial](imperial/hantei_suijin.md)
-[Yogo Himiko, concubine impériale](imperial/yogo_himiko.md)
-[Otomo Enomoto, frère de l’Empereur](imperial/otomo_enomoto.md)
-[Kakita Eiji, Champion d’Émeraude](imperial/kakita_eiji.md)
+- [Hantei XXX, dit l’Indécis](imperial/hantei_xxx.md)
+- [Doji Umehime](imperial/doji_umehime.md)
+- [Hantei Suijin, héritier impérial](imperial/hantei_suijin.md)
+- [Yogo Himiko, concubine impériale](imperial/yogo_himiko.md)
+- [Otomo Enomoto, frère de l’Empereur](imperial/otomo_enomoto.md)
+- [Kakita Eiji, Champion d’Émeraude](imperial/kakita_eiji.md)
 
 ### Doji Okoda, Conseiller Impérial
 TODO
