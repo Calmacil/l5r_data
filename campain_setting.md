@@ -2,41 +2,12 @@
 
 ## L’Empereur et son entourage
 
-### Hantei XXX, dit «Hantei l’Indécis»
-L’actuel Empereur de Rokugan. En 879, il fait de la famille Tsi, originellement une famille de ronin, des vassaux directs
-de sa propre famille. On dit que c’est la seule véritatble décision qu’il ait jamais prise, hormis de choisir sa concubine.
-Il est encore relativement jeune, la cinquantaine tout juste, mais la vieillesse semble s’emparer de lui prématurément
-et on se demande parfois à voix basse combien de temps durera encore son règne, si prospère qu’il fut.
-
-### Doji Umehime
-Éduquée depuis son plus jeune âge à devenir la future impératrice, elle sut séduire le jeune Hantei Rakuten dans ses
-jeunes années. Durant de nombreuses années, par son entremise, le Clan de la Grue put garder la main sur les plus hautes
-instances du pouvoir Impérial. Toutefois, sa beauté est désormais passée et l’Empereur s’intéresse de moins en moins à
-son épouse.
-
-Umehime aime parfois jouer les marieuses, usurpant ainsi la place des Nakodo choisies par les familles des plus haute
-dignitaires des Clans.
-
-### Hantei Suijin, héritier impérial
-Il est le premier fils de Hantei XXX et de Doji Umehime. Bien qu’il soit âgé de 37 ans, il est assez peu écouté par son
-illustre paternel.
-
-### Yogo Himiko, Concubine Impériale
-Elle a remplacé Umehime dans la couche de l’Empereur. Et elle commence à la remplacer à ses oreilles aussi. Très jeune,
-très avenante (benten + beauté du diable), courtisane douée… etc. Pour elle, l’Empereur a chassé ses autres concubines et
-officialisé le titre de Concubine Impériale. Ce qu’il ignore, c’est qu’elle réchauffe aussi d’autres couches. Elle
-aurait même un amour sincère…
-
-### Otomo Enomoto, le frère de l’Empereur
-C’est un homme rusé, vicieux et plein d’ambition. Rejeté de la lignée impériale par sa position de second fils, il a été
-éduqué dans la tradition familiale. Il profita plus tard de son statut pour étudier à un dojo de la famille Akodo, et
-fait aujourd’hui partie des hautes sphères de la Magistrature d’Émeraude. Ce serpent donne bien des soucis à Kakita
-Eiji, le Champion en titre.
-
-### Kakita Eiji, dit «Ouji-san», Champion d’Émeraude
-Il a remporté sa charge sur une victoire écrasante il y a bien des années, et il l’a occupée avec honneur. Bien qu’il
-soit clair qu’il va sur ses vieux jours, il remplit encore très bien ses fonctions et ne songe pas encore à la retraite.
-Son fils est Sensei de l’école Kakita.
+[Hantei XXX, dit l’Indécis](imperial/hantei_xxx.md)
+[Doji Umehime](imperial/doji_umehime.md)
+[Hantei Suijin, héritier impérial](imperial/hantei_suijin.md)
+[Yogo Himiko, concubine impériale](imperial/yogo_himiko.md)
+[Otomo Enomoto, frère de l’Empereur](imperial/otomo_enomoto.md)
+[Kakita Eiji, Champion d’Émeraude](imperial/kakita_eiji.md)
 
 ### Doji Okoda, Conseiller Impérial
 TODO
