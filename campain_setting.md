@@ -8,33 +8,34 @@
 - [Yogo Himiko, concubine impériale](imperial/yogo_himiko.md)
 - [Otomo Enomoto, frère de l’Empereur](imperial/otomo_enomoto.md)
 - [Kakita Eiji, Champion d’Émeraude](imperial/kakita_eiji.md)
+- [Doji Okoda, Conseiller Impérial](imperial/doji_okoda.md)
+- [Otomo Nasen, Chancelier Impérial](imperial/otomo_nasen.md)
+- [Miya Motobaro, Héraut Impérial](imperial/miya_motobaro.md)
+- [Doji Buntaro, Voix de l’Empereur](imperial/doji_buntaro.md)
+- [Otomo Jûrai, Daimyo des Otomo](imperial/otomo_jurai.md)
+- [Otomo Konechi, Héritier des Otomo](imperial/otomo_konechi.md)
+- [Miya Keijiro, Daimyo des Miya](imperial/miya_keijiro.md)
+- [Miya Chukujû, Héritier des Miya](imperial/miya_chukuju.md)
+- [Seppun Tôshiô, Daimyo des Seppun](imperial/seppun_toshio.md)
 
-### Doji Okoda, Conseiller Impérial
-TODO
 
-### Otomo Nasen Chancelier Impérial
-TODO
-
-### Miya Motobaro, Héraut Impérial
-TODO
-
-### Doji Buntaro, Voix de l’Empereur
-TODO
-
-### Otomo Jûrai, Daimyo des Otomo
-TODO
-
-### Otomo Konechi, Fils de Jûrai
-TODO
-
-### Miya Keijiro, Daimyo des Miya
-TODO
-
-### Miya Chukujû, fils de Keijiro
-TODO
-
-### Seppun Tôshiô, jeune Daimyo des Seppun
-TODO
+| Personnage                                    | Âge | St. | Gl. | Écoles                                        |
+|-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
+| Hantei XXX, Empereur                          | 58  |  10 | 4.0 | C. Otomo 5
+| Doji Umehime, Impératrice                     | 53  | 9.9 | 6.0 | C. Doji 5
+| Hantei Suijin, prince Impérial                | 37  | 9.4 | 3.0 | C. Otomo 1-2, Bushi Akodo 1
+| Yogo Himiko, Concubine Impériale              | 24  | 4.7 | 6.5 | C. Bayushi 3
+| Otomo(Hantei) Enomoto, Magistrat d’Émeraude++ | 49  | 6.0 | 5.0 | C. Otomo 1, B. Akodo 2-4, Héritier Impérial 1
+| Kakita Eiji, Ouji-san, Champion d’Émeraude    | 71  | 9.0 | 8.0 | B. Kakita 5, Kenshinzen 1, V. Champion d’Émeraude (réput 7)
+| Doji Okoda, Conseiller Impérial               | 61  | 9.0 | 4.0 | C. Doji 5
+| Otomo Nasen, Chancelier Impérial              | 47  | 9.0 | 6.0 | C. Otomo 4
+| Miya Motobaro, Héraut Impérial                | 45  | 7.0 | 6.0 | Héraut Miya 4
+| Doji Buntaro, Voix de l’Empereur              | 43  | 9.5 | 6.0 | C. Doji 5
+| Otomo Jûrai, Daimyo des Otomo                 | 39  | 9.3 | 4.2 | C. Otomo 5
+| Otomo Konechi, son fils                       | 18  | 7.3 | 3.0 | C. Otomo 1
+| Miya Keijiro, Daimyo des Miya                 | 52  | 9.3 | 4.0 | Héraut Miya 5
+| Miya Chukujû, son fils                        | 23  | 7.3 | 3.0 | Héraut Miya 2
+| Seppun Tôshiô, Daimyo des Seppun              | 27  | 9.3 | 3.5 | Garde Seppun 3
 
 
 ## Les Clans Majeurs
@@ -103,24 +104,6 @@ Total:
 
 
 ## Index des personages
-
-| Personnage                                    | Âge | St. | Gl. | Écoles                                        |
-|-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
-| Hantei XXX, Empereur                          | 58  |  10 | 4.0 | C. Otomo 5
-| Doji Umehime, Impératrice                     | 53  | 9.9 | 6.0 | C. Doji 5
-| Hantei Suijin, prince Impérial                | 37  | 9.4 | 3.0 | C. Otomo 1-2, Bushi Akodo 1
-| Yogo Himiko, Concubine Impériale              | 24  | 4.7 | 6.5 | C. Bayushi 3
-| Otomo(Hantei) Enomoto, Magistrat d’Émeraude++ | 49  | 6.0 | 5.0 | C. Otomo 1, B. Akodo 2-4, Héritier Impérial 1
-| Kakita Eiji, Ouji-san, Champion d’Émeraude    | 71  | 9.0 | 8.0 | B. Kakita 5, Kenshinzen 1, V. Champion d’Émeraude (réput 7)
-| Doji Okoda, Conseiller Impérial               | 61  | 9.0 | 4.0 | C. Doji 5
-| Otomo Nasen, Chancelier Impérial              | 47  | 9.0 | 6.0 | C. Otomo 4
-| Miya Motobaro, Héraut Impérial                | 45  | 7.0 | 6.0 | Héraut Miya 4
-| Doji Buntaro, Voix de l’Empereur              | 43  | 9.5 | 6.0 | C. Doji 5
-| Otomo Jûrai, Daimyo des Otomo                 | 39  | 9.3 | 4.2 | C. Otomo 5
-| Otomo Konechi, son fils                       | 18  | 7.3 | 3.0 | C. Otomo 1
-| Miya Keijiro, Daimyo des Miya                 | 52  | 9.3 | 4.0 | Héraut Miya 5
-| Miya Chukujû, son fils                        | 23  | 7.3 | 3.0 | Héraut Miya 2
-| Seppun Tôshiô, Daimyo des Seppun              | 27  | 9.3 | 3.5 | Garde Seppun 3
 
 
 |   Personnage                                  | Âge | St. | Gl. | Écoles                                        |
