@@ -5,89 +5,60 @@
 ### Familles
 + **Crabe**
   + Hida (Force)
-    + Kagekuchi
-    + Koebi
-    + Moshibaru
+    + Kagekuchi, Koebi, Moshibaru
   + Hiruma (Agilité)
   + Kaiu (Intelligence)
-    + Fundai
-    + Ishi
-    + Maisuna
+    + Fundai, Ishi, Maisuna
   + Kuni (Intelligence)
-    + Meishozo
-    + Ugawari
+    + Meishozo, Ugawari
   + Yasuki (Intuition)
-    + Kano
-    + Nobuto
-    + Raikuto
+    + Kano, Nobuto, Raikuto
 + **Dragon**
   + Agasha (Perception)
-    + Atsumaru
-    + Remiki
+    + Atsumaru, Remiki
   + Kitsuki (Intuition)
   + Mirumoto (Agilité)
-    + Kouken
-    + Zurui
+    + Kouken, Zurui
   + Togashi (Réflexes)
 + **Grue**
   + Asahina (Intelligence)
   + Daidoji (Endurance)
-    + Fujihiro
-    + Hiramichi
-    + Hiramori
-    + Junichi
+    + Fujihiro, Hiramichi, Hiramori, Junichi
   + Doji (Intuition)
-    + Katogama
-    + Morehei
+    + Katogama, Morehei
   + Kakita (Agilité)
-    + Ashidaka
-    + Iwasaki
+    + Ashidaka, Iwasaki
 + **Licorne**
   + Ide (Perception)
-    + Hateru
-    + Suio
+    + Hateru, Suio
   + Iuchi (Intelligence)
     + Battue
   + Moto (Agilité)
     + Onshigawa
   + Otaku (Endurance)
-    + Hyuga
-    + Naoko
+    + Hyuga, Naoko
   + Shinjo (Réflexes)
     + Marta
 + **Lion**
   + Akodo (Agilité)
-    + Damasu
-    + Ichime
-    + Itagawa
-    + Katai
-    + Koritome
-    + Shimizu
+    + Damasu, Ichime, Itagawa, Katai, Koritome, Shimizu
   + Ikoma (Intuition)
     + Hosokawa
   + Kitsu (Intelligence)
     + Ise
   + Matsu (Force)
-    + Goseki
-    + Ikeda
+    + Goseki, Ikeda
 + **Phénix**
   + Asako (Intuition)
-    + Chukan
-    + Nani
+    + Chukan,Nani
   + Isawa (Volonté)
   + Shiba (Perception)
-    + Iga
-    + Koganshi
-    + Nasu
-    + Sesai
-    + Sodona
+    + Iga, Koganshi, Nasu, Sesai, Sodona
 + **Scorpion**
   + Bayushi (Agilité)
     + Ugawa
   + Shosuro (Intuition)
-    + Jitsuyoteki
-    + Kochako
-    + Tokagure
+    + Jitsuyoteki, Kochako, Tokagure
   + Soshi (Intelligence)
     + Nanbu
   + Yogo (Volonté)
