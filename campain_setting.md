@@ -65,6 +65,16 @@ Samurai: ~203 K
 Pop: ~5 280 K
 Samurai: ~292 K
 
+- [Akodo Miyawa, Gouverneur de la province de Shireki](lion/akodo_miyawa.md)
+- [Shimizu Otori, Daimyo des Shimizu](lion/shimizu_otori.md)
+- [Shimizu Ohoshi/Akodo Giri, fils d'Otori](lion/shimizu_ohoshi.md)
+- [Shimizu Atsuo, épouse d'Otori](lion/shimizu_atsuo.md)
+- [Shimizu ???, 3e frère d'Otori et fiancé de Fennec](lion/shimizu_fiance.md)
+
+| Personnage                                    | Âge | St. | Gl. | Écoles                                        |
+|-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
+|
+
 ### Le Clan du Phénix
 Pop: ~1 590 K
 Samurai: 88 K
