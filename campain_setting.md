@@ -48,18 +48,34 @@ Depuis l’attaque de Mangeur au siècle précédent, le Clan du Crabe commence 
 de la Muraille a entrainé la perte de terres arables et toutes les familles ont subi de lourdes pertes. Les plus touchés
 sont bien sûr les Hiruma, qui ont perdu leur sanctuaire, et dont les rangs commencent seulement à se reconstituer.
 
+- [Hida Chomen, Champion du Clan du Crabe](crab/hida_chomen.md)
+
+| Personnage                                    | Âge | St. | Gl. | Écoles                                        |
+|-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
 
 ### Le Clan du Dragon
 Pop: ~1 830K
 Samurai: ~101 K
 
+
+| Personnage                                    | Âge | St. | Gl. | Écoles                                        |
+|-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
+
 ### Le Clan de la Grue
 Pop: ~3 820 K
 Samurai: ~213 K
 
+
+| Personnage                                    | Âge | St. | Gl. | Écoles                                        |
+|-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
+
 ### Le Clan de la Licorne
 Pop: ~3 650K
 Samurai: ~203 K
+
+
+| Personnage                                    | Âge | St. | Gl. | Écoles                                        |
+|-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
 
 ### Le Clan du Lion
 Pop: ~5 280 K
@@ -79,10 +95,22 @@ Samurai: ~292 K
 Pop: ~1 590 K
 Samurai: 88 K
 
+- [Shiba Ikkiyoku, Champion du Clan du Phénix](phenix/shiba_ikkiyoku.md)
+- [Isawa Yaruko, Maître de l’Air](phenix/isawa_yaruko.md)
+
+| Personnage                                    | Âge | St. | Gl. | Écoles                                        |
+|-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
+
 ### Le Clan du Scorpion
 Pop: ~1 810 K
 Samurai: ~ 102 K
 
+- [Bayushi Tokeda, Champion du Clan du Scorpion](scorpion/bayushi_tokeda.md)
+- [Bayushi Nanashi, son fils aîné](scorpion/bayushi_nanashi.md)
+- [Bayushi Sashiko, sa fille](scorpion/bayushi_sashiko.md)
+
+| Personnage                                    | Âge | St. | Gl. | Écoles                                        |
+|-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
 
 Total:
 22 590 000 hab
