@@ -49,6 +49,10 @@ de la Muraille a entrainé la perte de terres arables et toutes les familles ont
 sont bien sûr les Hiruma, qui ont perdu leur sanctuaire, et dont les rangs commencent seulement à se reconstituer.
 
 - [Hida Chomen, Champion du Clan du Crabe](crab/hida_chomen.md)
+- [Hiruma Tessai, Daimyo des Hiruma](crab/hiruma_tessai.md)
+- [Kaiu Rakuto, Daimyo des Kaiu](crab/kaiu_rakuto.md)
+- [Kuni Kasaru, Daimyo des Kuni](crab/kuni_kasaru.md)
+- [Yasuki Tokagure, Daimyo des Yasuki](crab/yasuki_tokagure.md)
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
@@ -57,6 +61,11 @@ sont bien sûr les Hiruma, qui ont perdu leur sanctuaire, et dont les rangs comm
 Pop: ~1 830K
 Samurai: ~101 K
 
+- [Togashi Denshichirou, Champion du Clan du Dragon](dragon/togashi_denshichirou.md)
+- [Agasha Sasuke, Daimyo des Agasha](dragon/agasha_sasuke.md)
+- [Kitsuki Gozaburo, Daimyo des Kitsuki](dragon/kitsuki_gozaburo.md)
+- [Mirumoto Munisai, Daimyo des Mirumoto](dragon/mirumoto_munisai.md)
+- [Mirumoto Takezou, son fils](dragon/mirumoto_takezou.md)
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
@@ -65,6 +74,11 @@ Samurai: ~101 K
 Pop: ~3 820 K
 Samurai: ~213 K
 
+- [Doji Shigeru, Champion du Clan de la Grue](crane/doji_shigeru.md)
+- [Doji Yoko, son épouse](crane/doji_yoko.md)
+- [Asahina Mokuba, Daimyo des Asahina](crane/asahina_mokuba.md)
+- [Kakita Tsute, Daimyo des Kakita](crane/kakita_tsuke.md)
+- [Daidoji Koga, Daimyo des Daidoji](crane/daidoji_koga.md)
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
@@ -73,6 +87,10 @@ Samurai: ~213 K
 Pop: ~3 650K
 Samurai: ~203 K
 
+- [Shinjo Temujin, Champion du Clan de la Licorne](unicorn/shinjo_temujin.md)
+- [Ide Tamano, Daimyo des Ide](unicorn/ide_tamano.md)
+- [Iuchi Sotaro, Daimyo des Iuchi](unicorn/ide_sotaro.md)
+- [Otaku Osugi, Daimyo des Otaku](unicorn/otaku_osugi.md)
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
@@ -81,11 +99,15 @@ Samurai: ~203 K
 Pop: ~5 280 K
 Samurai: ~292 K
 
+- [Akodo Matahachi, Champion du Clan du Lion](lion/akodo_matahachi.md)
 - [Akodo Miyawa, Gouverneur de la province de Shireki](lion/akodo_miyawa.md)
+- [Ikoma Seijirou, Daimyo des Ikoma](lion/ikoma_seijirou.md)
+- [Kitsu Ginji, Daimyo des Kitsu](lion/kitsu_ginji.md)
+- [Matsu Ogin, Daimyo des Matsu](lion/matsu_ogin.md)
 - [Shimizu Otori, Daimyo des Shimizu](lion/shimizu_otori.md)
 - [Shimizu Ohoshi/Akodo Giri, fils d'Otori](lion/shimizu_ohoshi.md)
 - [Shimizu Atsuo, épouse d'Otori](lion/shimizu_atsuo.md)
-- [Shimizu ???, 3e frère d'Otori et fiancé de Fennec](lion/shimizu_fiance.md)
+- [Shimizu ???, 3e frère d'Otori et fiancé de Fukuro](lion/shimizu_fiance.md)
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
@@ -97,6 +119,11 @@ Samurai: 88 K
 
 - [Shiba Ikkiyoku, Champion du Clan du Phénix](phenix/shiba_ikkiyoku.md)
 - [Isawa Yaruko, Maître de l’Air](phenix/isawa_yaruko.md)
+- [Isawa Aoi, Maîtresse de l’Eau](phenix/isawa_aoi.md)
+- [Asako Denetsu, Maître du Feu](phenix/asako_denetsu.md)
+- [Isawa Ran, Maître de la Terre](phenix/isawa_ran.md)
+- [Isawa Kurodo, Maître du Vide](phenix/isawa_kurodo.md)
+- [Asako Sato, Daimyo des Asako](phenix/asako_sato.md)
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
@@ -108,6 +135,13 @@ Samurai: ~ 102 K
 - [Bayushi Tokeda, Champion du Clan du Scorpion](scorpion/bayushi_tokeda.md)
 - [Bayushi Nanashi, son fils aîné](scorpion/bayushi_nanashi.md)
 - [Bayushi Sashiko, sa fille](scorpion/bayushi_sashiko.md)
+- [Bayushi Shinrai, père de Masami, Hatamoto et Shireikan](scorpion/bayushi_shinrai.md)
+- [Bayushi Fumeiyo, mère de Masami](scorpion/bayushi_fumeiyo.md)
+- [Bayushi Kosoko, soeur jumelle de Masami](scorpion/bayushi_kosoko.md)
+- [Bayushi Fumei, frère de Masami](scorpion/bayushi_fumei.md)
+- [Shosuro Kage, Daimyo des Shosuro](scorpion/shosuro_kage.md)
+- [Soshi Ikaru, Daimyo des Soshi](scorpion/soshi_ikaru.md)
+- [Yogo Gonosuke, Daimyo des Yogo](scorpion/yogo_gonosuke.md)
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
