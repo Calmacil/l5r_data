@@ -49,6 +49,7 @@ de la Muraille a entrainé la perte de terres arables et toutes les familles ont
 sont bien sûr les Hiruma, qui ont perdu leur sanctuaire, et dont les rangs commencent seulement à se reconstituer.
 
 - [Hida Chomen, Champion du Clan du Crabe](crab/hida_chomen.md)
+- [Hida Kusuru, son fils](crab/hida_kusuru.md)
 - [Hiruma Tessai, Daimyo des Hiruma](crab/hiruma_tessai.md)
 - [Kaiu Rakuto, Daimyo des Kaiu](crab/kaiu_rakuto.md)
 - [Kuni Kasaru, Daimyo des Kuni](crab/kuni_kasaru.md)
@@ -56,6 +57,12 @@ sont bien sûr les Hiruma, qui ont perdu leur sanctuaire, et dont les rangs comm
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
+| Hida Chomen, Champion du Clan du Crabe        | 32  | 8.0 | 8.0 | B. Hida 3
+| Hida Kusuru, son fils                         | 12  | 7.0 | 2.0 | B. Hida 0
+| Hiruma Tessai, Daimyo des Hiruma              | 68  | 7.0 | 6.0 | B. Hiruma 5
+| Kaiu Rakuto, Daimyo des Kaiu                  | 49  | 7.0 | 6.0 | B. Kaiu 5
+| Kuni Kasaru, Daimyo des Kuni                  | 43  | 7.0 | 9.0 | S. Kuni 4
+| Yasuki Tokagure, Daimyo des Yasuki            | 38  | 7.0 | 6.0 | C. Yasuki 4
 
 ### Le Clan du Dragon
 Pop: ~1 830K
@@ -69,6 +76,11 @@ Samurai: ~101 K
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
+| Togashi Denshichirô, Champion du Clan         | xxx | 8.0 | 8.0 | Moine Togashi 5, B. Mirumoto 5, Réput. 15+
+| Agasha Sasuke, Daimyo des Agasha              | 52  | 7.0 | 6.0 | S. Agasha 5
+| Kitsuki Gozaburo, Daimyo des Kitsuki          | 45  | 7.0 | 6.0 | B. Mirumoto 5
+| Mirumoto Munisai, Daimyo des Mirumoto         | 39  | 7.0 | 6.0 | B. Mirumoto 5
+| Mirumoto Takezô, son fils                     | 18  | 6.0 | 2.0 | B. Mirumoto 2
 
 ### Le Clan de la Grue
 Pop: ~3 820 K
@@ -82,6 +94,11 @@ Samurai: ~213 K
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
+| Doji Shigeru, Champion du Clan de la Grue     | 48  | 8.0 | 8.0 | B. Kakita 5, Kenshinzen 1
+| Doji Yoko, son épouse                         | 45  | 7.0 | 6.0 | C. Doji 5
+| Asahina Mokuba, Daimyo des Asahina            | 62  | 7.0 | 6.0 | S. Asahina 5, Réput. 6
+| Kakita Tsute, Daimyo des Kakita               | 35  | 7.0 | 6.0 | A. Kakita 4
+| Daidoji Koga, Daimyo des Daidoji              | 42  | 7.0 | 6.0 | B. Daidoji 5
 
 ### Le Clan de la Licorne
 Pop: ~3 650K
@@ -94,6 +111,10 @@ Samurai: ~203 K
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
+| Shinjo Temujin, Champion du Clan              | 67  | 8.0 | 10  | B. Shinjo 5, Réput. 7
+| Ide Tamano, Daimyo des Ide                    | 41  | 7.0 | 6.0 | C. Ide 4
+| Iuchi Sotaro, Daimyo des Iuchi                | 43  | 7.0 | 6.0 | S. Iuchi 5
+| Otaku Osugi, Daimyo des Otaku                 | 38  | 7.0 | 7.0 | B. Utaku 5 (oui, à 38 ans!)
 
 ### Le Clan du Lion
 Pop: ~5 280 K
@@ -111,7 +132,15 @@ Samurai: ~292 K
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
-|
+| Akodo Matahachi, Champion du Clan du Lion     | 24  | 8.0 | 8.0 | B. Akodo 3 et un cul bordé de nouilles
+| Akodo Miyawa, Gouverneur de province          | 55  | 6.0 | 10  | B. Akodo 5, Kensai Akodo, Maître Tacticien Akodo 3
+| Ikoma Seijirô, Daimyo des Ikoma               | 48  | 7.0 | 6.0 | C. Ikoma 5
+| Kitsu Ginji, Daimyo des Kitsu                 | 37  | 7.0 | 6.0 | S. Kitsu 4
+| Matsu Ogin, Daimyo des Matsu                  | 40  | 7.0 | 6.0 | B. Matsu 4, La Fierté du Lion 2
+| Shimizu Otori, Daimyo des Shimizu             | 43  | 7.0 | 5.0 | B. Akodo 4, Tech. des Adeptes du Sang
+| Shimizu Ohoshi, son fils                      | 11  | 6.0 | 2.0 | B. Akodo 0
+| Shimizu Atsuo, Épouse d’Otori                 | 34  | 6.0 | 4.0 | B. Akodo 2
+| Shimizu Fiancé,                               | 40  | 5.5 | 6.3 | B. Akodo 4
 
 ### Le Clan du Phénix
 Pop: ~1 590 K
