@@ -49,7 +49,7 @@ de la Muraille a entrainé la perte de terres arables et toutes les familles ont
 sont bien sûr les Hiruma, qui ont perdu leur sanctuaire, et dont les rangs commencent seulement à se reconstituer.
 
 - [Hida Chomen, Champion du Clan du Crabe](crab/hida_chomen.md)
-- [Hida Kusuru, son fils](crab/hida_kusuru.md)
+- [Hida Shonojo, son fils](crab/hida_kusuru.md)
 - [Hiruma Tessai, Daimyo des Hiruma](crab/hiruma_tessai.md)
 - [Kaiu Rakuto, Daimyo des Kaiu](crab/kaiu_rakuto.md)
 - [Kuni Kasaru, Daimyo des Kuni](crab/kuni_kasaru.md)
@@ -58,7 +58,7 @@ sont bien sûr les Hiruma, qui ont perdu leur sanctuaire, et dont les rangs comm
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
 | Hida Chomen, Champion du Clan du Crabe        | 32  | 8.0 | 8.0 | B. Hida 3
-| Hida Kusuru, son fils                         | 12  | 7.0 | 2.0 | B. Hida 0
+| Hida Shonojo, son fils                         | 12  | 7.0 | 2.0 | B. Hida 0
 | Hiruma Tessai, Daimyo des Hiruma              | 68  | 7.0 | 6.0 | B. Hiruma 5
 | Kaiu Rakuto, Daimyo des Kaiu                  | 49  | 7.0 | 6.0 | B. Kaiu 5
 | Kuni Kasaru, Daimyo des Kuni                  | 43  | 7.0 | 9.0 | S. Kuni 4
@@ -79,6 +79,7 @@ Samurai: ~101 K
 | Togashi Denshichirô, Champion du Clan         | xxx | 8.0 | 8.0 | Moine Togashi 5, B. Mirumoto 5, Réput. 15+
 | Agasha Sasuke, Daimyo des Agasha              | 52  | 7.0 | 6.0 | S. Agasha 5
 | Kitsuki Gozaburo, Daimyo des Kitsuki          | 45  | 7.0 | 6.0 | B. Mirumoto 5
+| Kitsuki Masakatada, son fils                  | 11  | 6.0 | 2.0 | C. Kitsuki 0
 | Mirumoto Munisai, Daimyo des Mirumoto         | 39  | 7.0 | 6.0 | B. Mirumoto 5
 | Mirumoto Takezô, son fils                     | 18  | 6.0 | 2.0 | B. Mirumoto 2
 
@@ -98,6 +99,7 @@ Samurai: ~213 K
 | Doji Yoko, son épouse                         | 45  | 7.0 | 6.0 | C. Doji 5
 | Asahina Mokuba, Daimyo des Asahina            | 62  | 7.0 | 6.0 | S. Asahina 5, Réput. 6
 | Kakita Tsute, Daimyo des Kakita               | 35  | 7.0 | 6.0 | A. Kakita 4
+| Kakita Toshimichi, son fils                   | 4   | 6.0 | 2.0 | Rien pour l’instant
 | Daidoji Koga, Daimyo des Daidoji              | 42  | 7.0 | 6.0 | B. Daidoji 5
 
 ### Le Clan de la Licorne
@@ -128,7 +130,7 @@ Samurai: ~292 K
 - [Shimizu Otori, Daimyo des Shimizu](lion/shimizu_otori.md)
 - [Shimizu Ohoshi/Akodo Giri, fils d'Otori](lion/shimizu_ohoshi.md)
 - [Shimizu Atsuo, épouse d'Otori](lion/shimizu_atsuo.md)
-- [Shimizu ???, 3e frère d'Otori et fiancé de Fukuro](lion/shimizu_fiance.md)
+- [Shimizu Haruichiban, 3e frère d'Otori et fiancé de Fukuro](lion/shimizu_fiance.md)
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
@@ -140,7 +142,18 @@ Samurai: ~292 K
 | Shimizu Otori, Daimyo des Shimizu             | 43  | 7.0 | 5.0 | B. Akodo 4, Tech. des Adeptes du Sang
 | Shimizu Ohoshi, son fils                      | 11  | 6.0 | 2.0 | B. Akodo 0
 | Shimizu Atsuo, Épouse d’Otori                 | 34  | 6.0 | 4.0 | B. Akodo 2
-| Shimizu Fiancé,                               | 40  | 5.5 | 6.3 | B. Akodo 4
+| Shimizu Haruichiban, Taisa, fiancé de Makoto  | 40  | 5.5 | 6.3 | B. Akodo 4
+| Ikoma Kokuchi, grand père de Makoto           | 73  | 4.0 | 3.2 | C. Ikoma 5, 7F
+| Ikoma Kurogo, père de Makoto                  | 50  | 5.0 | 4.5 | C. Ikoma 5, 2F
+| Ikoma Sumikitta, mère de Makoto               | 52  | 4.0 | 2.3 | S. Kitsu 5, 3F
+| Ikoma Gi, 1er frère de Makoto                 | 33  | 4.0 | 2.0 | S. Kitsu 3, époux Shinjo Seika
+| Ikoma Chugo, 2e frère de Makoto, Yojimbo de Gi| 30  | 3.5 | 2.0 | B. Akodo 3, époux Ikoma Fuyuzora
+| Ikoma Jin, 3e frère de Makoto                 | 28  | 3.0 | 2.0 | C. Ikoma 3, veuf
+| Matsu Yu, 4e frère de Makoto                  | 26  | 3.0 | 2.0 | B. Matsu 3, marié à Matsu Ryûseiko
+| Ikoma Meiyo, 5e frère de Makoto               | 21  | 2.0 | 1.0 | Dresseur Matsu 2, marié à Mirumoto Soma
+| Ikoma Rei, 6e frère de Makoto, Yojimbo de Jin | 19  | 1.5 | 1.0 | B. Akodo 2, fiancé à Tonbo Hana
+| Ikoma Shôgeki, ami d’enfance de Makoto        | 17  | 1.0 | 0.0 | Ombre du Lion 1 (réput. 2)
+
 
 ### Le Clan du Phénix
 Pop: ~1 590 K
@@ -174,6 +187,15 @@ Samurai: ~ 102 K
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
+| Bayushi Tokeda, Champion du Clan              | 45  | 8.0 | 8.0 | B. Bayushi 5, Instigateur Scorpion 1
+| Bayushi Nanashi, son fils, flirt de Masami    | 18  | 7.0 | 3.0 | C. Bayushi 2
+| Bayushi Sashiko, sa fille                     | ~11 | 7.0 | 2.0 | ?. Bayushi 0
+| Bayushi Fumeiyo, mère de Masami               | 35  | 2.0 | 3.0 | C. Bayushi 1-2, réput 3
+| Bayushi Kosoko, jumelle de Masami             | 18  | 1.0 | 1.0 | École quelconque 1, lien kharmique
+| Bayushi Fumei, frère de Masami                | 18  | 1.0 | 1.0 | S. Soshi 2
+| Shosuro Kage, Daimyo des Shosuro              | 39  | 7.0 | 6.0 | C. Bayushi 5
+| Soshi Ikaru, Daimyo des Soshi                 | 41  | 7.0 | 6.0 | S. Soshi 5
+| Yogo Gonosuke, Daimyo des Yogo                | 66  | 7.0 | 6.0 | S. Yogo 5, Réput 7
 
 Total:
 22 590 000 hab
