@@ -190,6 +190,7 @@ Samurai: ~ 102 K
 | Bayushi Tokeda, Champion du Clan              | 45  | 8.0 | 8.0 | B. Bayushi 5, Instigateur Scorpion 1
 | Bayushi Nanashi, son fils, flirt de Masami    | 18  | 7.0 | 3.0 | C. Bayushi 2
 | Bayushi Sashiko, sa fille                     | ~11 | 7.0 | 2.0 | ?. Bayushi 0
+| Bayushi Ededei, oncle et sensei de Masami     | 37  | 4.0 | 4.5 | B. Bayushi 4
 | Bayushi Fumeiyo, mère de Masami               | 35  | 2.0 | 3.0 | C. Bayushi 1-2, réput 3
 | Bayushi Kosoko, jumelle de Masami             | 18  | 1.0 | 1.0 | École quelconque 1, lien kharmique
 | Bayushi Fumei, frère de Masami                | 18  | 1.0 | 1.0 | S. Soshi 2

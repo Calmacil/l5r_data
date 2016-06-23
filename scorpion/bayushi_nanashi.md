@@ -6,7 +6,7 @@ Bushi Bayushi 2 (157)
 | ------------- | ------------- | ------------- | ------------- | -------------
 | Intuiton 4    | Perception 3  | -             | Volonté 3     | -
 
-| Honneur  2.5  | Statut  6.0   | Gloire 3.0    | Souillure     | Ombre
+| Honneur  2.5  | Statut  7.0   | Gloire 3.0    | Souillure     | Ombre
 | ------------- | ------------- | ------------- | ------------- | -------------
 | Attaque: 6k3  | Dommages: 6k2 | ND arm: 25    | RD: -3        | HP: 38 (0)
 
@@ -40,10 +40,13 @@ Bushi Bayushi 2 (157)
 * Statut (Fils du Champion)
 * Arme Sacrée (Lames Shosuro, katana 4k2, +5 résister poison sur la lame)
 * Connaissance interdite (Kolat)
+* beauté du diable (+1k0 tentation)
+* bénédiction de benten (+0k1 social)
 
 ### Désavantages
 * Joli Cœur (+1k1 adversaire jets Tentation(séduction))
 * Fascination: jolies femmes
 * Compulsion: boire (ND 20)
 * Sombre Secret (membre du Kolat)
-* Crédule (+1k1 adversaire opp sociaux)
+* Crédule (+1k1 adversaire Sincérité(tromperie))
+* Épileptique
