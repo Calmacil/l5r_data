@@ -1,6 +1,6 @@
 # Bayushi Nanashi
 
-Bushi Bayushi 2 (156)
+Bushi Bayushi 2 (157)
 
 | **Air** 3     | **Eau** 2     | **Feu** 3     | **Terre** 2   | **Vide** 2
 | ------------- | ------------- | ------------- | ------------- | -------------
@@ -15,6 +15,7 @@ Bushi Bayushi 2 (156)
 | Conn: Bushido                                 | 2     | 5k3
 | Conn: Héraldique                              | 3     | 6k3
 | Conn: Clan du Scorpion                        | 3     | 6k3
+| Conn: Kolat                                   | 1     | 4k3
 | *Courtisan (Manipulation)                     | 3     | 7k4
 | *Défense                                      | 1     | 4k3
 | *Discrétion                                   | 1     | 4k3
@@ -38,8 +39,11 @@ Bushi Bayushi 2 (156)
 ### Avantages
 * Statut (Fils du Champion)
 * Arme Sacrée (Lames Shosuro, katana 4k2, +5 résister poison sur la lame)
+* Connaissance interdite (Kolat)
 
 ### Désavantages
 * Joli Cœur (+1k1 adversaire jets Tentation(séduction))
 * Fascination: jolies femmes
 * Compulsion: boire (ND 20)
+* Sombre Secret (membre du Kolat)
+* Crédule (+1k1 adversaire opp sociaux)
