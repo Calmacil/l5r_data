@@ -169,6 +169,13 @@ Samurai: 88 K
 
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
+| Shiba Ikkiyoku, Champion du Clan du Phénix    | ??  | 8.0 | 8.0 | B. Shiba 5, Maître du Kolat (réput 6)
+| Isawa Yaruko, Maître de l’Air                 | ??  | 7.0 | 6.0 | S. Isawa 4, Tensai Isawa
+| Isawa Aoi, Maîtresse de l’Eau                 | 38  | 7.0 | 6.0 | S. Isawa 5, Tensai Isawa
+| Asako Denetsu, Maître du Feu                  | 43  | 7.0 | 6.0 | S. Isawa 5, Tensai Isawa
+| Isawa Ran, Maître de la Terre                 | 31  | 7.0 | 6.0 | S. Isawa 4, Tensai Isawa
+| Isawa Kurodo, Maître du Vide                  | 49  | 7.0 | 6.0 | S. Isawa 5, Tensai Isawa
+| Isako Sato, Daimyo des Asako                  | 35  | 7.0 | 6.0 | C. Asako 4
 
 ### Le Clan du Scorpion
 Pop: ~1 810 K
