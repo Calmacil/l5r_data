@@ -1,6 +1,6 @@
 # Ikoma Kokuchi
 
-Barde Ikoma 5 à la retraite (170)
+Barde Ikoma 5 à la retraite (237)
 
 Ancien ambassadeur auprès du Clan du Dragon, il s’est vu attribuer la régence de
 la ville de Mura sano Eiyu ni Suru, dans la province d’Eyiu, pour les nombreux
@@ -68,4 +68,4 @@ rempli depuis des années. Sa femme est morte [en couches/de vieillesse]
 
 ### Désavantages
 
-* Faiblesses (Réflexes 2, Force, Agilité 2, Constitution 2)
+* Faible (Réflexes 2, Force, Agilité 2, Constitution 2)

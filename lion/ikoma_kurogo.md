@@ -1,6 +1,6 @@
 # Ikoma Kurogo, Père de Makoto
 
-Barde Ikoma 5 (221)
+Barde Ikoma 5 (246)
 
 | **Air** 4     | **Eau** 3     | **Feu** 4     | **Terre** 3   | **Vide** 3
 | ------------- | ------------- | ------------- | ------------- | -------------
@@ -23,7 +23,7 @@ Barde Ikoma 5 (221)
 | *Conn: Héraldique                             | 8     | 10k8 (14k6)
 | *Conn: Histoire (Clan du Lion)                | 4     | 10k6
 | *Courtisan                                    | 7     | 10k7 (13k6)
-| *Étiquette                                    | 7     | 10k7 (13k6)
+| *Étiquette                                    | 6     | 10k7 (12k6)
 | Iaijutsu                                      | 2     | 8k6 / 5k3 / 5k3
 | *Kenjutsu                                     | 3     | 6k3
 | *Sincérité (Honnêteté)                        | 7     | 10k7 (13k6)
@@ -58,7 +58,10 @@ Barde Ikoma 5 (221)
 
 * Voie du Daimyo (x)
 * Monde des Daimyo (x)
+* Gouverneur (Ville, 25 points)
+* Heureuses fiançailles (Sumikitta)
 
 ### Désavantages
 
+* Amour sincère (Sumikitta )
 * Faible (Agilité, Réflexes)
