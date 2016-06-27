@@ -153,6 +153,7 @@ Samurai: ~292 K
 | Ikoma Meiyo, 5e frère de Makoto               | 21  | 2.0 | 1.0 | Dresseur Matsu 2, marié à Mirumoto Soma
 | Ikoma Rei, 6e frère de Makoto, Yojimbo de Jin | 19  | 1.5 | 1.0 | B. Akodo 2, fiancé à Tonbo Hana
 | Ikoma Shôgeki, ami d’enfance de Makoto        | 17  | 1.0 | 0.0 | Ombre du Lion 1 (réput. 2)
+| Ikoma Itô, "Chotto", Badasu-sensei            | ??  | 5.0 | 4.0 | Moine X 3, Ombre du Lion 5
 
 
 ### Le Clan du Phénix

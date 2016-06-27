@@ -22,7 +22,7 @@ ancêtres.
 | Art: Bonzai                                   | 5     | 10k5
 | Art: Ikebana                                  | 3     | 8k5
 | Art: Poésie                                   | 3     | 8k5
-| *Art de la Guerre                             | 3     | 8k5
+| *Art de la Guerre                             | 3     | 10k7
 | *Art de la Magie                              | 6     | 10k6 (12k5)
 | Bâtons                                        | 3     | 6k3
 | *Calligraphie (code secret)                   | 3     | 8k5

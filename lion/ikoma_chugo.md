@@ -40,6 +40,7 @@ Se bat avec un No-dachi (3k3)
 
 * Rapide
 * Parangon: Devoir (Peut dépenser 1 Vide pour annuler tous malus à un jet comp)
+* Bénédiction de Jurojin (+2k0 résistance poisons et maladies)
 
 ### Désavantages
 

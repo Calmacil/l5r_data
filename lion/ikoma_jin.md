@@ -49,8 +49,10 @@ Troisième frère de la Famille Bushido, il élève seul sa fille Ine, sa femme
 
 ### Avantages
 
-* Parangon (Compassion)
+* Parangon: Compassion (Vide pour aider «moins biens placés»: +2k2 au lieu de 1k1)
+* Bénédiction de Fukurokujin (+1k1 en Connaissance: Bushido)
 * Statut social (Karo)
+* Lien Kharmique 3 (Ikoma Rei)
 
 ### Désavantages
 

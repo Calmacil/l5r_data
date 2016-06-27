@@ -14,7 +14,7 @@ Courtisan Bayushi 5, Instigateur 1 (254)
 | Compétences (Spécialités)                     | Rang  | Jet
 | --------------------------------------------- | ----- | -------
 | Art: Poésie                                   | 3     | 9k6
-| Art de la Guerre (Combat de masse)            | 4     | 9k5
+| Art de la Guerre (Combat de masse)            | 4     | 8k4
 | Conn: Bushido                                 | 3     | 8k5
 | Conn: Clan du Scorpion                        | 7     | 10k6
 | Conn: Droit                                   | 7     | 10k6

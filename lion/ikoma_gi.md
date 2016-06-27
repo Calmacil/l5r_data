@@ -21,7 +21,7 @@ vient d’entrer au dojo (lequel ?), Shunu et Kigo.
 | Compétences (Spécialités)                     | Rang  | Jet
 | --------------------------------------------- | ----- | -------
 | Art: Bonzai                                   | 1     | 5k4
-| *Art de la Guerre                             | 3     | 7k4
+| *Art de la Guerre                             | 3     | 8k5
 | *Art de la Magie                              | 4     | 8k4
 | *Calligraphie (code secret)                   | 2     | 6k4
 | *Conn: Histoire                               | 3     | 7k4
@@ -48,6 +48,7 @@ vient d’entrer au dojo (lequel ?), Shunu et Kigo.
 * Faveur élémentaire (Eau)
 * Kami amical (Eau)
 * Parangon: Honnêteté (+1k0 tout jet de Sincérité: Honnêteté)
+* Bénédiction d'Ebisu (+1k1 social avec non-samurai)
 
 ### Désavantages
 
