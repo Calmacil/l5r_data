@@ -146,13 +146,13 @@ Samurai: ~292 K
 | Ikoma Kokuchi, grand père de Makoto           | 73  | 4.0 | 3.2 | C. Ikoma 5, 7F
 | Ikoma Kurogo, père de Makoto                  | 50  | 5.0 | 4.5 | C. Ikoma 5, 2F
 | Ikoma Sumikitta, mère de Makoto               | 52  | 4.0 | 2.3 | S. Kitsu 5, 3F
-| Ikoma Gi, 1er frère de Makoto                 | 33  | 4.0 | 2.0 | S. Kitsu 3, époux Shinjo Seika
-| Ikoma Chugo, 2e frère de Makoto, Yojimbo de Gi| 30  | 3.5 | 2.0 | B. Akodo 3, époux Ikoma Fuyuzora
-| Ikoma Jin, 3e frère de Makoto                 | 28  | 3.0 | 2.0 | C. Ikoma 3, veuf
-| Matsu Yu, 4e frère de Makoto                  | 26  | 3.0 | 2.0 | B. Matsu 3, marié à Matsu Ryûseiko
-| Ikoma Meiyo, 5e frère de Makoto               | 21  | 2.0 | 1.0 | Dresseur Matsu 2, marié à Mirumoto Soma
-| Ikoma Rei, 6e frère de Makoto, Yojimbo de Jin | 19  | 1.5 | 1.0 | B. Akodo 2, fiancé à Tonbo Hana
-| Ikoma Shôgeki, ami d’enfance de Makoto        | 17  | 1.0 | 0.0 | Ombre du Lion 1 (réput. 2)
+| Ikoma Gi, 1er frère de Makoto                 | 33  | 4.0 | 3.0 | S. Kitsu 3, époux Shinjo Seika
+| Ikoma Chugo, 2e frère de Makoto, Yojimbo de Gi| 30  | 3.5 | 3.0 | B. Akodo 3, époux Ikoma Fuyuzora
+| Ikoma Jin, 3e frère de Makoto                 | 28  | 3.0 | 3.0 | C. Ikoma 3, veuf
+| Matsu Yu, 4e frère de Makoto                  | 26  | 3.0 | 3.0 | B. Matsu 3, marié à Matsu Ryûseiko
+| Ikoma Meiyo, 5e frère de Makoto               | 21  | 2.0 | 2.0 | Dresseur Matsu 2, marié à Mirumoto Soma
+| Ikoma Rei, 6e frère de Makoto, Yojimbo de Jin | 19  | 1.5 | 2.0 | B. Akodo 2, fiancé à Tonbo Hana
+| Ikoma Shôgeki, ami d’enfance de Makoto        | 17  | 1.0 | 1.0 | Ombre du Lion 1 (réput. 2)
 | Ikoma Itô, "Chotto", Badasu-sensei            | ??  | 5.0 | 4.0 | Moine X 3, Ombre du Lion 5
 
 

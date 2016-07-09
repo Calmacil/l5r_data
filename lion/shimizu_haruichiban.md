@@ -49,3 +49,5 @@ de porter une Lame Akodo.
 ### Désavantages
 
 * Associal
+* Fascination: Art de la Guerre (marié à son sabre)
+* Phobie: Mariage
