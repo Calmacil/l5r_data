@@ -1,3 +1,14 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Courtisan (Manipulation)                     | 1     |
+| *Défense                                      | 1     |
+| *Enquête                                      | 1     |
+| *Étiquette                                    | 1     |
+| *Intimidation (Contrôle)                      | 1     |
+| *[Noble]                                      | 1     |
+
+## Techniques d’écoles et autres
+
 1. La Voix du Ciel
   * Pas de perte d’Honneur quand j’utilise *Intimidation (Contrôle)*.
   * Discuss membre des Clans (maj ou min), peut jet opp *Courtisan (Manip)/Intuition*

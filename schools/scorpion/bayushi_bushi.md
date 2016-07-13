@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Courtisan (Manipulation)                     | 1     |
+| *Défense                                      | 1     |
+| *Étiquette                                    | 1     |
+| *Iaijutsu                                     | 1     |
+| *Kenjutsu                                     | 1     |
+| *Sincérité                                    | 1     |
+| *[Any]                                        | 1     |
+
+## Techniques d’école et autres
+
 1. La Voie du Scorpion
   - +1g1 init
   - +5 ND d'armure contre ennemis avec init inférieure
