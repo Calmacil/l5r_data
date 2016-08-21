@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Athlétisme                                   | 1     |
+| *Chasse (Pièges)                              | 1     |
+| *Couteaux (Jitte)                             | 1     |
+| *Discrétion (Furtivité)                       | 1     |
+| *Kenjutsu                                     | 1     |
+| *Kyujutsu (Yumi)                              | 1     |
+| *[Bugei/Dégrad]                               | 1     |
+
+## Techniques d’écoles et autres
+
 1. Scruter l’horizon
   * +1k0 Discrétion et Chasse.
   * Bonus +1k1 dmg infligés par pièges ruraux.

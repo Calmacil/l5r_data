@@ -10,15 +10,3 @@
 | ------------- | ------------- | ------------- | ------------- | -------------
 | Attaque: XgY  | Dommages: XgY | ND arm: --    | RD: --        | HP: 38 (0)
 
-| Compétences (Spécialités)                     | Rang  | Jet
-| --------------------------------------------- | ----- | -------
-
-
-
-## Techniques d’école et autres joyeusestés
-
-
-### Avantages
-
-
-### Désavantages

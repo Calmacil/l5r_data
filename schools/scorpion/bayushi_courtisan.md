@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Calligraphie                                 | 1     |
+| *Courtisan (Commérages)                       | 1     |
+| *Enquête                                      | 1     |
+| *Étiquette                                    | 1     |
+| *Sincérité (Tromperie)                        | 1     |
+| *Tentation                                    | 1     |
+| *[Noble]                                      | 1     |
+
+## Techniques d’écoles et autres
+
 1. La faiblesse est ma force
   - Opp sociale: 1 Aug free / 3 pts desav. social/mental cible (max 5 aug)
   - Aug gratuite Courtisan pour propager une rumeur, pas d'Aug pour nier la source

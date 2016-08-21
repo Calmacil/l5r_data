@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Courtisan                                    | 1     |
+| *Discrétion                                   | 1     |
+| *Enquête (Sens Observ)                        | 1     |
+| *Étiquette                                    | 1     |
+| *Kenjutsu                                     | 1     |
+| *Sincérité                                    | 1     |
+| *[Noble / Dégrad]                             | 1     |
+
+## Techniques d’écoles et autres
+
 1. Sans contrainte
   * Pas perte d’honneur si comp Dégradante au service Clan du Lion.
   * peut cibler [Maîtrise] adv. [AS] > +1k0 jets atk ou opp jusqu'a soir.

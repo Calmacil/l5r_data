@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Défense                                      | 1     |
+| *Jiujutsu                                     | 1     |
+| *Couteaux (Jitte)                             | 1     |
+| *Armes d’Hast                                 | 1     |
+| *Lances                                       | 1     |
+| *Conn: loi                                    | 1     |
+| *[Noble / Bugei]                              | 1     |
+
+## Techniques d’écoles et autres
+
 1. L'honneur renforce l’acier
   * Ajoute <Air> à mon ND d’armure (sauf impuissant ou surpris)
   * +1k0 jets d’attaque avec jitte ou sasumata

@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Art de la Guerre (Combat de Masse)           | 1     |
+| *Conn: Histoire                               | 1     |
+| *Défense                                      | 1     |
+| *Kenjutsu                                     | 1     |
+| *Kyujutsu                                     | 1     |
+| *Sincérité                                    | 1     |
+| *[Noble / Bugei]                              | 1     |
+
+## Techniques d’écoles et autres
+
 1. La voie du Lion
   * Je peux ignorer le bonus d’armure au ND d’armure de l’adv, OU gagner une
     Aug gratuite en attaquant.

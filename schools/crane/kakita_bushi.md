@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Cérémonie du Thé                             | 1     |
+| *Étiquette                                    | 1     |
+| *Iaijutsu (Concentration)                     | 1     |
+| *Kenjutsu                                     | 1     |
+| *Kyujutsu                                     | 1     |
+| *Sincérité                                    | 1     |
+| *[Noble / Bugei]                              | 1     |
+
+## Techniques d’écoles et autres
+
 1. La voie de la Grue
   * + 2 x <Iaijutsu> en Init
   * + 1k1 + <Maîtrise> aux jets d’attaque et de *Concentration* en posture Centre.

@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Athlétisme (Course)                          | 1     |
+| *Chasse                                       | 1     |
+| *Conn: Maho                                   | 1     |
+| *Défense                                      | 1     |
+| *Jiujutsu                                     | 1     |
+| *Kenjutsu                                     | 1     |
+| *[Noble / Bugei]                              | 1     |
+
+## Techniques d’écoles et autres
+
 1. La vitesse du Lièvre
   * Si espace pour sauter/esquiver, +<Athlétisme> au ND d’armure sauf en posture
     Assaut ou Centre. Anneau d'Eau +1 pour déplacements

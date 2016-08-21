@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Courtisan                                    | 1     |
+| *Étiquette                                    | 1     |
+| *Jeu: Sadane                                  | 1     |
+| *Sincérité                                    | 1     |
+| *Art / Comédie / Spectacle                    | 1     |
+| *Art / Comédie / Spectacle                    | 1     |
+| *Art / Comédie / Spectacle                    | 1     |
+
+## Techniques d’écoles et autres
+
 1. Âme artisane
   * Choix mon <Art> de prédilection
   * +2k0 et augs non limités par Vide avec mon <Art>

@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Athlétisme                                   | 1     |
+| *Défense                                      | 1     |
+| *Intimidation (Contrôle)                      | 1     |
+| *Jiujutsu                                     | 1     |
+| *Kenjutsu                                     | 1     |
+| *Conn: Outremonde                             | 1     |
+| *[Bugei]                                      | 1     |
+
+## Techniques d’écoles et autres
+
 1. Le visage de la Justice
   * +1k0 Intimidation (+2k0 si Statut cible inférieur au mien).
   * +1k0 atk càc

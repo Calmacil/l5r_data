@@ -1,3 +1,14 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Art de la Guerre                             | 1     |
+| *Défense                                      | 1     |
+| *Élevage                                      | 2     |
+| *Iaijutsu                                     | 1     |
+| *Kenjutsu                                     | 1     |
+| *[Bugei]                                      | 1     |
+
+## Techniques d’écoles et autres
+
 1. Uni à la meute
   * Lien avec un Lion
   * Aucun lion ne m’attaque sauf contraint
@@ -28,4 +39,3 @@
 
 Compétences: Chasse 3, Discrétion 3
 Peur 1
-

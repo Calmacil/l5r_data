@@ -1,3 +1,14 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Art de la Guerre                             | 1     |
+| *Défense                                      | 2     |
+| *Iaijutsu                                     | 1     |
+| *Kenjutsu (Katana)                            | 1     |
+| *Kyujutsu                                     | 1     |
+| *[Any]                                        | 1     |
+
+## Techniques d’écoles et autres
+
 1. La force de l’Honneur
   * Bonus de <Honneur - 4> HP à chaque rang de blessure
   * +1k0 tous jets atk en post. Attaque

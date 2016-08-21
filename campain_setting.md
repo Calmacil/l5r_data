@@ -96,8 +96,9 @@ Samurai: ~213 K
 | Personnage                                    | Âge | St. | Gl. | Écoles                                        |
 |-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
 | Doji Shigeru, Champion du Clan de la Grue     | 48  | 8.0 | 8.0 | B. Kakita 5, Kenshinzen 1
-| Doji Yoko, son épouse                         | 45  | 7.0 | 6.0 | C. Doji 5
-| Asahina Mokuba, Daimyo des Asahina            | 62  | 7.0 | 6.0 | S. Asahina 5, Réput. 6
+| Doji Yoko, son épouse                         | 45  | 7.0 | 6.0 | C. Doji 3
+| Asahina Koemon, Daimyo des Asahina            | 62  | 7.0 | 6.0 | S. Asahina 5, Réput. 6
+| Asahina Futako, sa femme                      | 49  | 6.0 | 6.0 | C. Doji 3
 | Kakita Tsute, Daimyo des Kakita               | 35  | 7.0 | 6.0 | A. Kakita 4
 | Kakita Toshimichi, son fils                   | 4   | 6.0 | 2.0 | Rien pour l’instant
 | Daidoji Koga, Daimyo des Daidoji              | 42  | 7.0 | 6.0 | B. Daidoji 5
@@ -213,6 +214,12 @@ Total:
 ## Les Clans Mineurs
 
 Éventuellement ajouter un ou deux clans mineurs customs. Laisser une place pour le Clan de la Crevette
+
+
+|   Personnage                                  | Âge | St. | Gl. | Écoles                                        |
+|-----------------------------------------------|-----|-----|-----|-----------------------------------------------|
+| Suzume Taka, champion du Moineau              | 48  | 7.0 | 6.0 | B. Suzume 4
+| Suzume Bisei, sa fille                        | 21  | 6.0 | 3.0 | B. Suzume 1 tardif
 
 ### Le Clan du Blaireau
 

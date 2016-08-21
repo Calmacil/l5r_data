@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *[Artisanat]                                  | 1     |
+| *[Artisanat]                                  | 1     |
+| *Calligraphie                                 | 1     |
+| *Étiquette                                    | 1     |
+| *[Conn]                                       | 1     |
+| *Sincérité                                    | 1     |
+| *[Noble / Bugei]                              | 1     |
+
+## Techniques d’écoles et autres
+
 1. L’âme d’un Génie
   * Choix une comp d’Artisan. Quand dépense Vide pour cette comp, bonus +2k2.
 2. Par sa sincérité
@@ -5,7 +17,7 @@
     uniquement pour acheter avantage Alliés. Ces Alliés durent [École] semaines.
 3. Éloquence de l’art
   * Choix comp d’Artisanat. Quand dois faire jet Social, peux utiliser la comp
-    d’Artisanat à la place. 
+    d’Artisanat à la place.
 4. Bienfaits de l’art
   * 1/jour, jet Artisanat ND 30 > moi + [École] personnes récupèrent tous points
     de Vide. 15 min de travail, pas dans l’Outremonde.

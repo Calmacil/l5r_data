@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Art de la Guerre                             | 1     |
+| *Défense                                      | 1     |
+| *Étiquette                                    | 1     |
+| *Iaijutsu                                     | 1     |
+| *Kenjutsu (Katana)                            | 1     |
+| *Kyujutsu                                     | 1     |
+| *[Noble]                                      | 1     |
+
+## Techniques d’écoles et autres
+
 1. Jamais dans les ténèbres
   * +<Maitrise>k0 pr résister jet opp qui m’éloigne de mon devoir
   * +1k1 *Enquête* pour déceler embuscade/surprise

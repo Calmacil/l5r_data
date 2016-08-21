@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Conn: Histoire (Clan du Lion)                | 1     |
+| *Courtisan                                    | 1     |
+| *Étiquette                                    | 1     |
+| *Sincérité (Honnêteté)                        | 1     |
+| *Spectacle: Art du Conteur                    | 1     |
+| *[Bugei]                                      | 1     |
+| *[Noble]                                      | 1     |
+
+## Techniques d’écoles et autres
+
 1. Le héraut de la Gloire
   * J’ai une Excellente Mémoire sans payer les xp.
   * En vantant une personne + jet Spectacle: Art du conteur ND 20, je lui fais
@@ -16,4 +28,4 @@
     de +[mon honneur]k0. S’il re-rate, je perds 2 Honneur.
 5. Chaque Lion est ton frère
   * 5/session, sur opp. sociale, peut citer précédent histo pour argumenter. Gagne
-    alors +[Spect:Art du conteur]k0 au jet. 
+    alors +[Spect:Art du conteur]k0 au jet.

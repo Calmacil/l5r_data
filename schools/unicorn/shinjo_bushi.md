@@ -1,3 +1,12 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Athlétisme                                   | 1     |
+| *Défense                                      | 1     |
+| *Équitation                                   | 2     |
+| *Kenjutsu                                     | 1     |
+| *Kyujutsu                                     | 1     |
+| *[Any]                                        | 1     |
+
 1. La voie de la Ki-rin
   * Quand je dépense 1 Vide pour bonus 1k1 school skill, total += [Équitation],
     sauf en posture Centre.

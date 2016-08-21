@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Athlétisme                                   | 1     |
+| *Chasse                                       | 1     |
+| *Conn: Outremonde                             | 1     |
+| *Discrétion (Furtivité)                       | 1     |
+| *Kenjutsu                                     | 1     |
+| *Kyujutsu                                     | 1     |
+| *[Bugei]                                      | 1     |
+
+## Techniques d’écoles et autres
+
 1. Danse sur le fil du rasoir
   * +<Discrétion> à l’init, sauf surpris.
   * Nourriture/boisson/jade dure 2x plus longtemps pr <Chasse> personnes.

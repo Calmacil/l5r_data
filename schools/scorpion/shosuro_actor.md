@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Comédie                                      | 1     |
+| *Couteaux                                     | 1     |
+| *Discrétion                                   | 1     |
+| *Étiquette                                    | 1     |
+| *Méditation                                   | 1     |
+| *Sincérité (Tromperie)                        | 1     |
+| *[Noble / Dégrad]                             | 1     |
+
+## Techniques d’écoles et autres
+
 1. Premier visage
   * Premier Rôle
   * Vide pour jet Commédie ou Sincérité (Tromperie) > +3k1 au lieu de 1k1

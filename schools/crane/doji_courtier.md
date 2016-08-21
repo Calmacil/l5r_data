@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Calligraphie                                 | 1     |
+| *Cérémonie du Thé                             | 1     |
+| *Courtisan (Manipulation)                     | 1     |
+| *Étiquette (Courtoisie)                       | 1     |
+| *Sincérité                                    | 1     |
+| *Spectacle: Art du Conteur                    | 1     |
+| *[Art/Spectacle]                              | 1     |
+
+## Techniques d’école et autres
+
 1. L’âme de l’honneur
   * Si mon Honneur >= 6.0, Aug gratis en *Courtisan*, *Étiquette* et *Sincérité*.
   * discuss cible qq minutes, jet opp Courtisan (Manip) / Intuition vs

@@ -2,16 +2,16 @@
 
 ## PNJ Importants
 
-- Asahina (Doji) Futako, épouse du daimyo Asahina, courti Doji 3
+- ~Doji Yoko, épouse du champion Doji ~
 - ~Hantei (Doji) Umehime, Impératrice~
-- Hida Ukiô, ambassadeur du Crabe, bushi Hida 4 / La main tranchée
-- Yasuki Rakuten, conseiller de Ukiô, Kolat, courti Yasuki 3
-- Suzume Taka, Champion du Moineau, bushi Suzume 4
+- ~Hida Ukiô, ambassadeur du Crabe~
+- ~Yasuki Rakuten, conseiller de Ukiô, Kolat~
+- ~Suzume Taka, Champion du Moineau~
 - ~Otomo Enomoto, frère véreux de l’Empereur~
-- Asahina Kota, membre élevé du Kolat, Shugenja Asahina 4
-- Doji Kitai, «petit daimyo», Courtisan Doji 0
-- Shinjo Itsuo, Ambassadeur des Shinjo, Bushi Shinjo 3
-- Isawa Hisaichi, Shugenja Isawa 3, chef de la délégation mais n’en a rien à foutre
+- ~Asahina Kota, membre élevé du Kolat~
+- ~Doji Kitai, «petit daimyo»~
+- ~Shinjo Itsuo, Ambassadeur des Shinjo~
+- ~Isawa Hisaichi, Courtisan Asako 3, Ambassadeur~
 
 ## Jeunes et Jolies Samurai-ko
 
@@ -27,6 +27,7 @@
 - Bushi Suzume 2
 - Duelliste Kakita 2
 - Duelliste Kakita 3 (yojimbo, cpt garde)
+- Magistrat Doji 2
 - Artisan Kakita 2
 - Courtisan Doji 2
 - Courtisan Asako 2
@@ -42,4 +43,3 @@
 - Shugenja Kitsune 3 (ambassadeur)
 - Shugenja Kitsune 1
 - Bushi Kitsune sans école 2
-

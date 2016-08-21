@@ -1,3 +1,14 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Athlétisme                                   | 1     |
+| *Comédie                                      | 1     |
+| *Ninjutsu                                     | 1     |
+| *Sincérité                                    | 1     |
+| *Discrétion (Furtivité)                       | 2     |
+| *[Any]                                        | 1     |
+
+## Techniques d’écoles et autres
+
 1. La voie des ombres
   * pas perte d’honneur sur jet comp Dégradante ou arme Ninjutsu au service du
     Clan.

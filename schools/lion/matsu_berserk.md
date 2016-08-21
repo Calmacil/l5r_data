@@ -1,3 +1,15 @@
+| Compétences (Spécialités)                     | Rang  | Jet
+| --------------------------------------------- | ----- | -------
+| *Art de la Guerre                             | 1     |
+| *Conn: Histoire                               | 1     |
+| *Jiujutsu                                     | 1     |
+| *Kenjutsu (Katana)                            | 1     |
+| *Kyujutsu                                     | 1     |
+| *[Bugei]                                      | 1     |
+| *[Bugei]                                      | 1     |
+
+## Techniques d’écoles et autres
+
 1. Le rugissement du Lion
   * Bonus de +[Honneur] aux dgts
   * Post. assaut, +1m50 supp aux mvt
