@@ -26,22 +26,22 @@
 
 ## Lambdas
 
-- Bushi Suzume 2
-- Duelliste Kakita 2
-- Duelliste Kakita 3 (yojimbo, cpt garde)
-- Magistrat Doji 2
-- Artisan Kakita 2
-- Courtisan Doji 2
-- Courtisan Asako 2
-- Courtisan Asako 3 (ambassadeur)
-- Bushi Shiba 3 (yojimbo)
-- Courtisan Bayushi 2
-- Bushi Hida 1 (yojimbo)
-- Courtisan Yasuki 2
-- Duelliste Bayushi 2
-- Bushi Shinjo 3 / courti (ambassadeur)
-- Bushi Shinjo 2
+- ~Bushi Suzume 2~
+- ~Duelliste Kakita 2~
+- ~Duelliste Kakita 3 (yojimbo, cpt garde)~
+- ~Magistrat Doji 2~
+- ~Artisan Kakita 2~
+- ~Courtisan Doji 2~
+- ~Courtisan Asako 2~
+- ~Courtisan Asako 3 (ambassadeur)~
+- ~Bushi Shiba 3 (yojimbo)~
+- ~Courtisan Bayushi 2~
+- ~Duelliste Bayushi 2~
+- ~Bushi Hida 1 (yojimbo)~
+- ~Courtisan Yasuki 2~
+- ~Bushi Shinjo 3 / courti (ambassadeur)~
+- ~Bushi Shinjo 2~
 - Ronin / Tueur de la Forêt 1
-- Shugenja Kitsune 3 (ambassadeur)
-- Shugenja Kitsune 1
+- ~Shugenja Kitsune 3 (ambassadeur)~
+- ~Shugenja Kitsune 1~
 - Bushi Kitsune sans école 2
