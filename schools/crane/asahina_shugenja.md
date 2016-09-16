@@ -14,3 +14,4 @@
   * peut dépenser 1 Vide > réduit total dgts infligés par adv. à 6m de 0k1 pdt
     <Maîtrise> rnds
   * Aug gratuite sorts de [défense]
+  * 3 Air, 2 Eau, 1 Terre

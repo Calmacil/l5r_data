@@ -14,3 +14,4 @@
   * Pour 1 empl. supp en lançant un sort dmgless, je peux dissimuler tous ses
     effets visibles.
   * Aug gratuite sorts d'[Illusion]
+  * 3 Air, 2 Feu, 1 Eau

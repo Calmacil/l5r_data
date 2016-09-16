@@ -14,3 +14,4 @@
   * Aug gratis pr sorts destinés à protéger vie, biens, famille ou réputation
     de l’Empereur.
   * Aug gratis aux sorts secrets des Familles Impériales
+  * 3 Feu, 2 Terre, 1 Air

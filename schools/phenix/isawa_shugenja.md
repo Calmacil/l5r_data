@@ -12,3 +12,5 @@
 
 1. Le Don d’Isawa
   * Aug gratuite à l’incant. des sorts pour lesquels j’ai une affinité.
+  * Affinité au choix, pas de déficience
+  * 3 elem1, 2 elem2, 1 elem3

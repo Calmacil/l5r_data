@@ -14,3 +14,4 @@
   * Jet incant. (Eau) vs. Vol cible x 5 > connais Avantages / Désavantages spirituels
     de cible. 1 Vide > annule un Avantage de cible pendant [Maîtrise] minutes.
   * Aug gratuite sorts [Art de la guerre]
+  * 3 Eau, 2 Air, 1 Terre

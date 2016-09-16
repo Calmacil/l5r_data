@@ -16,13 +16,13 @@
 ## Jeunes et Jolies Samurai-ko
 
 - ~Hida Sakura, Bushi Hida 1~
-- Doji Yume, Courtisan Doji 1
-  - Kocho
-  - Petit Daimyo (Kitai)
-- Kakita "Tremo" Furue, Courtisan Doji 2
-- Biyako Yasue, Shugenja Kitsune 1
-- Suzume Tsugumi, Bushi Suzume 1
-- Asahina Ohatsu, Bushi Kakita 1
+- ~Doji Yume, Courtisan Doji 1~
+  - ~Kocho~
+  - ~Petit Daimyo (Kitai)~
+- ~Kakita "Tremo" Furue, Courtisan Doji 2~
+- ~Biyako Yasue, Shugenja Kitsune 1~
+- ~Suzume Tsugumi, Bushi Suzume 1~
+- ~Asahina Ohatsu, Bushi Kakita 1~
 
 ## Lambdas
 
