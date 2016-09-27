@@ -10,7 +10,7 @@ Bushi Usagi 4, Ombre du Lion Ikoma 5 (Rang 4 Ikoma zappé) (318)
 
 | Honneur 4.5   | Statut 5.5    | Gloire 5.0    | Souillure     | Ombre
 | ------------- | ------------- | ------------- | ------------- | -------------
-| Katana: 10k7  | Dommages: 7k2 | ND arm: 45    | RD: --        | HP: 76 (0)
+| Katana: 10k7  | Dommages: 8k2 | ND arm: 45    | RD: --        | HP: 76 (0)
 | Jiujut: 10k6  | Dommages: 4k1 | Init: 10k10+4
 
 | Compétences (Spécialités)                     | Rang  | Jet
