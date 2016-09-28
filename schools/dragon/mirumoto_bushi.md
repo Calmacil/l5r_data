@@ -8,4 +8,14 @@
 | Sincérité                                     | 1     |
 | [Noble / Bugei]                               | 1     |
 
-1.
+1. La Voie du Dragon
+  * Qd je me bats au Daisho, pas de malus pour port de 2 armes
+  * Au daisho, bonus de <École> au ND d’armure (cumulative avec le bonus pour 2 armes)
+  * Qd un sort me cible, je peux + / - le ND de 5.
+2. Le calme au cœur de la tempête
+  * En posture Centre, bonus de [Kenjutsu] à mes jets de Iaijutsu.
+3. Fort et vif
+  * Atk [AS] avec une arme de [samurai]
+4. Furieuses représailles
+  * 
+5. Cœur du Dragon
