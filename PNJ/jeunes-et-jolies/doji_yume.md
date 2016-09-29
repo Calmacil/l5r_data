@@ -1,6 +1,6 @@
 # Doji Yume
 
-Courtisan Doji 1
+Courtisan Doji 2 (162)
 
 Toujours suivie de deux gamins, son daimyo de quatre ans et un petit Shugenja
 (ronin) qu’elle fait passer pour son serviteur afin de le protéger, c’est une
@@ -9,11 +9,11 @@ relations avec le Clan du Scorpion, préférant ne pas se faire d’ennemis. Sa
 vie est bien assez compliquée ainsi. Elle sort régulièrement dans les jardins
 pour méditer avec l’enfant qui la suit et pleurer son ishiken-do perdu.
 
-| **Air** 4     | **Eau** 2     | **Feu** 2     | **Terre** 2   | **Vide** 2
+| **Air** 4     | **Eau** 2     | **Feu** 2     | **Terre** 2   | **Vide** 4
 | ------------- | ------------- | ------------- | ------------- | -------------
 | -             | -             | -             | -             | -
 
-| Honneur 6.5   | Statut 1.0    | Gloire 1.0    | Souillure     | Ombre
+| Honneur 4.5   | Statut 1.0    | Gloire 1.0    | Souillure     | Ombre
 | ------------- | ------------- | ------------- | ------------- | -------------
 | Attaque: 5k4  | Dommages: 2k2 | ND arm: 25    | RD: --        | HP: 38 (0)
 
@@ -25,7 +25,7 @@ pour méditer avec l’enfant qui la suit et pleurer son ishiken-do perdu.
 | *Courtisan (Manipulation)                     | 3     | 7k5
 | *Étiquette (Courtoisie)                       | 3     | 7k4
 | Kyujutsu                                      | 1     | 5k4
-| Méditation                                    | 1     | 3k2
+| Méditation                                    | 5     | 3k2
 | *Sincérité                                    | 3     | 7k5
 | *Spectacle: Art du Conteur                    | 3     | 8k5
 | *Art: Poésie                                  | 1     | 6k5
@@ -36,6 +36,10 @@ pour méditer avec l’enfant qui la suit et pleurer son ishiken-do perdu.
   * Si mon Honneur >= 6.0, Aug gratis en *Courtisan*, *Étiquette* et *Sincérité*.
   * discuss cible qq minutes, jet opp Courtisan (Manip) / Intuition vs
     Étiquette (Courtoisie) / Intuition > voir si elle a besoin aide/faveurs.
+2. Parler en silence
+  * Jet Courtisan / Intell ND 15 > communiquer idées simples en parlant avec le
+    langage corporel à tout Courti Doji / Grue avec 5 en Courtisan
+  * Augmentations pour transmettre idées + complexes
 
 ### Avantages
 

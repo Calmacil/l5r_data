@@ -6,7 +6,7 @@
 | ------------- | ------------- | ------------- | ------------- | -------------
 | Intuition 3   | -             | Intell 2      | Volonté 2     | -
 
-| Honneur 6.5   | Statut 5.0    | Gloire 3.0    | Souillure     | Ombre 1.0
+| Honneur 6.5   | Statut 5.0    | Gloire 3.0    | Souillure     | Ombre 0.9
 | ------------- | ------------- | ------------- | ------------- | -------------
 | Attaque: XgY  | Dommages: XgY | ND arm: 15    | RD: --        | HP: 19 (0)
 
@@ -28,7 +28,7 @@
 
 * Sombre Secret: Frappé par l’Ombre
 
-### Pouvoirs de l’Ombre
+### Pouvoirs de l’Ombre (not yet)
 
 * Quand fait test pour trouver cible cachée, +2 augmentations
 * +1k0 tests de combat dans une zone obscure / ombreuse
