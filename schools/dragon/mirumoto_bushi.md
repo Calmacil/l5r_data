@@ -17,5 +17,8 @@
 3. Fort et vif
   * Atk [AS] avec une arme de [samurai]
 4. Furieuses représailles
-  * 
+  * Réa, je choisis une cible qui a tenté de m’attaquer à ce round. Au prochain
+    tour, toutes mes atk contre lui auront +3k0
 5. Cœur du Dragon
+  * Si j’atk 2 fois au même tour en portant un Daisho, je peux faire une 3ème atk
+    pour une [AG] avec le wakizashi.
