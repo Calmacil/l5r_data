@@ -1,12 +1,12 @@
 | Compétences (Spécialités)                     | Rang  | Jet
 | --------------------------------------------- | ----- | -------
-| Athlétisme                                    | 1     |
-| Conn: Théologie                               | 1     |
-| Défense                                       | 1     |
-| Iaijutsu                                      | 1     |
-| Kenjutsu (katana)                             | 1     |
-| Méditation                                    | 1     |
-| [Noble / Bugei]                               | 1     |
+| *Athlétisme                                   | 1     |
+| *Conn: Théologie                              | 1     |
+| *Défense                                      | 1     |
+| *Iaijutsu                                     | 1     |
+| *Kenjutsu (katana)                            | 1     |
+| *Méditation                                   | 1     |
+| *[Noble / Bugei]                              | 1     |
 
 1. Aligné avec les Éléments
   * Quand je porte un sabre et pas d’armure, j’ai une réduction de [École] + 2.

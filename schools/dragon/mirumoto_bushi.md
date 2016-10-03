@@ -1,12 +1,14 @@
 | Compétences (Spécialités)                     | Rang  | Jet
 | --------------------------------------------- | ----- | -------
-| Conn: Shugenja                                | 1     |
-| Défense                                       | 1     |
-| Iaijutsu                                      | 1     |
-| Kenjutsu (Katana)                             | 1     |
-| Méditation                                    | 1     |
-| Sincérité                                     | 1     |
-| [Noble / Bugei]                               | 1     |
+| *Conn: Shugenja                               | 1     |
+| *Conn: Théologie                              | 1     |
+| *Défense                                      | 1     |
+| *Iaijutsu                                     | 1     |
+| *Kenjutsu (Katana)                            | 1     |
+| *Méditation                                   | 1     |
+| *[Noble / Bugei                               | 1     |
+
+## Techniques d’écoles etc
 
 1. La Voie du Dragon
   * Qd je me bats au Daisho, pas de malus pour port de 2 armes
