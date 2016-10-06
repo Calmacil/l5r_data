@@ -36,6 +36,7 @@ Shugenja Isawa 4, Tensai Isawa (202)
 
 * Ishiken-do
 * Connaissances Interdites: l’Ombre
+* Sage
 
 ### Désavantages
 
