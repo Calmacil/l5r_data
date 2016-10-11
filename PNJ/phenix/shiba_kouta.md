@@ -1,4 +1,4 @@
-# Shiba Jiro
+# Shiba Kouta
 
 Courtisan Asako 1
 
@@ -35,4 +35,4 @@ Courtisan Asako 1
 * Otage (grues, Doji)
 * Contrariant (Vol ND20 pour ne pas corriger qqun qui dit un truc faux)
 
-6 + 28 
+6 + 28

@@ -1,4 +1,4 @@
-# Heimin Coupaing
+# Heimin Yuki
 
 Sans école, 1
 
@@ -8,7 +8,7 @@ Sans école, 1
 
 | Honneur 1.5   | Statut 0.0    | Gloire 0.0    | Souillure     | Ombre
 | ------------- | ------------- | ------------- | ------------- | -------------
-| Attaque: 6k3  | Dommages: 3k4 | ND arm: 20    | RD: --        | HP: 57 (0)
+| Attaque: 6k3  | Dommages: 3k3 | ND arm: 20    | RD: --        | HP: 57 (0)
 
 | Compétences (Spécialités)                     | Rang  | Jet
 | --------------------------------------------- | ----- | -------

@@ -1,4 +1,4 @@
-# Shiba Saburo
+# Shiba Ichirou
 
 Bushi Shiba 0
 
