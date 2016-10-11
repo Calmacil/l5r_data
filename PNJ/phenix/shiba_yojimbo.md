@@ -1,6 +1,6 @@
 # Yojimbo Shiba
 
-Bushi Shiba 3, voie du Yojimbo
+Bushi Shiba 3, voie du Yojimbo (177)
 
 | **Air** 3     | **Eau** 3     | **Feu** 3     | **Terre** 3   | **Vide** 3
 | ------------- | ------------- | ------------- | ------------- | -------------
@@ -12,13 +12,13 @@ Bushi Shiba 3, voie du Yojimbo
 
 | Compétences (Spécialités)                     | Rang  | Jet
 | --------------------------------------------- | ----- | -------
-| *Conn: Théologie                              | 1     |
-| *Défense                                      | 1     |
-| *Kenjutsu                                     | 1     |
-| *Kyujutsu                                     | 1     |
-| *Arme d’Hast                                  | 1     |
-| *Méditation (Récup vide)                      | 1     |
-| *[Noble / Bugei]                              | 1     |
+| *Conn: Théologie                              | 2     | 5k3
+| *Défense                                      | 4     | 7k3
+| *Kenjutsu                                     | 5     | 8k3
+| *Kyujutsu                                     | 5     | 8k3
+| *Arme d’Hast                                  | 5     | 8k3
+| *Méditation (Récup vide)                      | 3     | 6k3
+| *Iaijutsu                                     | 3     | 6k3
 
 ## Techniques d’écoles et autres
 1. La Voie du Phénix
