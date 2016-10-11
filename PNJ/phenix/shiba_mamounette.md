@@ -1,4 +1,4 @@
-# Shiba (Matsu) Mamounette
+# Shiba (Matsu) Sora
 
 Bushi Matsu 1 (Réput 2) (161)
 

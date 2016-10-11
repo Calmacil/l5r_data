@@ -1,4 +1,4 @@
-# Shiba Papounet
+# Shiba Nobuyuki
 
 Courtisan Asako 3 (184)
 
@@ -40,7 +40,7 @@ Courtisan Asako 3 (184)
 ### Avantages:
 
 * nombreux contacts (faible influence, faible loyauté) dans le milieu
-    
+
 ### Désavantages:
 
 * Amères fiançailles
